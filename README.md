@@ -1,6 +1,6 @@
-# Mobile Performance #
+# Mobile Performance
 
-## Articles: ##
+## Articles:
 - [Steve Souders](http://stevesouders.com/mobileperf/)
 - [PPK](http://www.quirksmode.org/mobile/)
 - [Performance Testing Resources](http://mobilegovwiki.howto.gov/Performance+Testing+Resources)
@@ -26,7 +26,18 @@
 - [Front-end performance for web designers and front-end developers](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/)
 - [Tips for smooth scrolling web pages (EdgeConf follow-up)](http://chrislord.net/index.php/2013/02/11/tips-for-smooth-scrolling-web-pages-edgeconf-follow-up/)
 
-## Slides: ##
+## About Animation:
+
+* [Rendering: repaint, reflow/relayout, restyle](http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
+* [High performance animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
+* [The Runtime Performance Checklist](http://calendar.perfplanet.com/2013/the-runtime-performance-checklist/)
+* [perfmatters: 60fps layout and rendering](https://docs.google.com/presentation/d/1CH8ifryioHDLT1Oryyy8amusUmq2FytpCPCpk0G3E4o/edit#slide=id.p)
+* [High Performance JS Tip: Dimensions Are Not Your Friend](http://dcousineau.com/blog/2013/09/03/high-performance-js-tip/)
+* [Jank Busting Apple's Home Page](http://wesleyhales.com/blog/2013/10/26/Jank-Busting-Apples-Home-Page/)
+* [Better Performance With requestAnimationFrame](https://dev.opera.com/articles/better-performance-with-requestanimationframe/)
+* [In the dev tools timeline, what are the empty green rectangles?](http://stackoverflow.com/questions/27392133/in-the-dev-tools-timeline-what-are-the-empty-green-rectangles/27426601)
+
+## Slides:
 - [Why Mobile Performance is Hard](http://www.sigmobile.org/mobicom/2013/MobiCom2013_IndustrialTalks_MattWelsh.pdf)
 - [Understanding Mobile Web Performance](http://www.slideshare.net/vrajivk/understanding-mobile-web-performance-8390976)
 - [Velocity 2012 - Taming the Mobile Beast](http://www.slideshare.net/patrickmeenan/velocity-2012-taming-the-mobile-beast)
@@ -37,20 +48,20 @@
 - [Mobile WPO](http://www.slideshare.net/tkadlec/mobile-wpo)
 - [http://www.strangeloopnetworks.com/blog/the-90-minute-mobile-optimization-life-cycle/](http://www.strangeloopnetworks.com/blog/the-90-minute-mobile-optimization-life-cycle/)
 
-## Tools: ##
+## Tools:
 - [Mobitest](http://mobitest.akamai.com/m/index.cgi) (免费)
 - [WebPage Test](http://www.webpagetest.org/)
 - [Apache JMeter](http://jmeter.apache.org/)
 - [AT&T Application Resource Optimizer](http://developer.att.com/developer/forward.jsp?passedItemId=13800072)
 - [PassMark PerformanceTest](http://www.passmark.com/products/pt_mobile.htm)
 
-## Video: ##
+## Video:
 - [Mobile Performance from the Radio Up: Battery, Latency and Bandwidth Optimization](https://developers.google.com/events/io/sessions/327864330)
 - [Mobile Performance from the Radio Up: Battery, Latency and Bandwidth Optimization - Google I/O 2013](http://www.youtube.com/watch?v=dASOm88Wh8g)
 - [Performance Checklist for the Mobile Web](http://www.youtube.com/watch?v=0UNWi7FA36M&feature=youtu.be)
 - [Richard Campbell - Ten Web Performance Tuning Tricks in 60 Minutes](http://vimeo.com/43659068)
 
-## Not all about performance ##
+## Not all about performance
 - [Responsive Images: Experimenting with Context-Aware Image Sizing](http://filamentgroup.com/lab/responsive_images_experimenting_with_context_aware_image_sizing/)
 - [HTML5 compatibility on mobile and tablet browsers with testing on real devices](http://mobilehtml5.org/)
 - [Web First for Mobile](http://www.stevesouders.com/blog/2012/05/16/web-first-for-mobile/)
